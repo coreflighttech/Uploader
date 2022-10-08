@@ -26,7 +26,7 @@ For EFIS, LANDING GEAR LEVER, ATC., COMM., NAV., FLAP etc.
 		-Check the Com Port is the USB port which connected to the Module
 		-Click Upload button
     
-IF any help needed, please feel free to contact wih us!
+If any help is needed, please feel free to contact wih us!
 
 info@coreflighttech.com
 facebook.com/coreflighttech
