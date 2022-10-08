@@ -25,7 +25,7 @@ For EFIS, LANDING GEAR LEVER, ATC., COMM., NAV., FLAP etc.
 		- Select the device as "EFIS/NAV/COMM/ATC/ADF V2"
 		- Check the Com Port is the USB port which connected to the Module
 		- Click Upload button
-    
+     
 If any help is needed, please feel free to contact wih us!
 
 info@coreflighttech.com
