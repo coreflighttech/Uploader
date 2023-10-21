@@ -12,7 +12,7 @@ Steps:
 - Click "Hex File" selection button.
 - Search in your computer and find the firmware you want to upload to Core Flight Tech. Module
 
-For MCP: 
+For MCP/FCU: 
   - Select the device type -> B737 MCP/A320 FCU
   - Com port is the Module USB port number (check on the Device Manager)
   - Click Upload button
