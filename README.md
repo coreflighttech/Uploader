@@ -2,7 +2,7 @@
 
 Uploader (Xloader) is a firmware installer tool.
 
-Core Flight Tech. modules can talk with the Uploader.
+Core Flight Tech. modules can talk with the Xloader.
 
 How to do? 
 First Steps:
