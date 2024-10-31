@@ -23,7 +23,7 @@ For EFIS, LANDING GEAR LEVER, ATC., COMM., NAV., FLAP etc.
   - Select the device type -> "EFIS/NAV/COMM/ATC/ADF V1"
   - Com port is the Module USB port number (check on the Device Manager)
   - Click the "Hex file" selection button
-  - Find the "mobiflight_uno_9.0.0.hex" file on your computer
+  - Find the latest firmware that you installed before.
   - Click the Upload button
 
     If Xloader still says "Uploading" after 1 min., disconnect the USB cable and then connect it
